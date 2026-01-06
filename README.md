@@ -13,8 +13,9 @@ Outside of work and studies, I enjoy **music** and personal development.
 ### **Data & Analytics**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="30" height="30"/> SQL  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="30" height="30"/> Power BI  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="30" height="30"/> Excel  
+<img src="https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" alt="Power BI"/> Power BI  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> Excel  
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> Tableau  
 
 ---
 
