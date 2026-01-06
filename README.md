@@ -1,11 +1,19 @@
-# Hi there 👋, I'm Zeus Mark Fernandes
+# Hey there 👋, I'm Zeus Mark Fernandes
 
-A **Data Analyst** from Goa with 3+ years of experience in **Data Analysis** and **Business Intelligence**.  
-I love turning data into insights, creating dashboards, and learning new technologies.
+## 👋 About Me
 
-I am currently pursuing my **Master’s in Data Science in France** to deepen my expertise.  
-Outside of work and studies, I enjoy **music** and personal development.
-
+- 🌍 **Location:** Rennes,France ||Goa, India
+  
+- 💼 **Experience:** 3+ years in **Data Analysis** & **Business Intelligence**
+  
+- 🎓 **Education:** Currently pursuing **Master’s in Data Science in France**
+  
+- 📊 **Passion:** Turning data into insights and creating dashboards
+  
+  
+- 🎵 **Hobbies:** Music and personal development
+  
+- 💡 **Learning:** Always exploring new technologies and tools  
 ---
 
 ## 🛠️ Skills
