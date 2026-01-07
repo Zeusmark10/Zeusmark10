@@ -6,7 +6,7 @@
   
 - 💼 **Experience:** 3+ years in **Data Analysis** & **Business Intelligence**
   
-- 🎓 **Education:** Currently pursuing **Master’s in Data Science in France**
+- 🎓 **Education:** Currently pursuing **Master’s in Data & Business Analytics at Rennes School of Business in France**
   
 - 📊 **Passion:** Turning data into insights and creating dashboards
   
