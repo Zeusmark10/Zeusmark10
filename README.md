@@ -30,7 +30,7 @@
 
 ## 📫 Connect with me
 
-[<img align="left" alt="LinkedIn" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/>](https://www.linkedin.com/in/zeusfernandes2510/)  
+[<img align="left" alt="LinkedIn" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/>](https://www.linkedin.com/in/zeusfernandes/)  
 
 
 
